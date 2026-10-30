@@ -237,3 +237,5 @@ cd "frontend" && npm run build
 
 - **Offline / Edge AI**: The AI semantic routing relies on the in-memory Python microservice and requires ~500MB RAM for the PyTorch runtime.
 - **Language Detection**: Regional Indian language grievances are processed using multilingual MiniLM vector representations; transliterated English (Hinglish/Tanglish) may have lower initial similarity scores and be safely flagged for review.
+#   D i g i t a l - I n d i a  
+ 
